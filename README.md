@@ -1,2 +1,2 @@
 # everyday-cpp
-A place to document my journey and experiences with the lesser known, interesting aspects of C++
+Documenting all concepts of C++, from basic to advanced, in the only form I can understand - through examples and outputs.
